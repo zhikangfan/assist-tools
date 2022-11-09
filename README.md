@@ -14,5 +14,5 @@ npm地址：[https://www.npmjs.com/package/nrm](https://www.npmjs.com/package/nr
 
 - .npmrc 官网：[https://docs.npmjs.com/cli/v8/configuring-npm/npmrc](https://docs.npmjs.com/cli/v8/configuring-npm/npmrc)
 - prettierrc.json、.prettierignore 代码风格 中文官网：[https://www.prettier.cn/](https://www.prettier.cn/) 英文官网：[https://prettier.io/](https://prettier.io/)
-- .editorconfig 代码编辑器配置 官网：[http://editorconfig.org](# http://editorconfig.org)
+- .editorconfig 代码编辑器配置 官网：[http://editorconfig.org](http://editorconfig.org)
 - .eslintrc.json 中文官网：[https://cn.eslint.org/](https://cn.eslint.org/)
